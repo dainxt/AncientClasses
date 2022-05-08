@@ -1,0 +1,28 @@
+{
+    "components": [
+    	{
+            "type": "patchouli:header",
+            "text": "#header",
+            "x": "-1"
+        },
+        {
+            "type": "patchouli:separator",
+            "x": "-1",
+            "y": "-1"
+        },
+        {
+        	"type": "patchouli:custom",
+        	"class": "com.dainxt.ancientclasses.compat.patchouli.MultipleItemComponent",
+        	"item_set": "#item_set",
+            "x": "50",
+            "y": "25"
+        	
+        },
+        {
+            "type": "patchouli:text",
+            "text": "#text",
+            "y": "50"
+        }
+        
+    ]
+}

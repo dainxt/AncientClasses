@@ -1,0 +1,28 @@
+{
+    "name": "Diamond Branch",
+    "icon": "minecraft:diamond",
+    "category": "ancientclasses:branches_category",
+    "sortnum": "2",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Most known as the $(l)mage$(). For those that like to deal a huge amount of damage to anyone. This may be suitable for you. You can boost your abilities by holding enchanted books in the offhand at the same time you cast them."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl:2s, id:'minecraft:knockback'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:3s, id:'minecraft:looting'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:4s, id:'minecraft:piercing'}]}",
+			"text": "You can apply these ones to your first ability: Knockback any entity on the way, by 20 blocks/second per level, Looting by having the same effect as weapons and Piercing by having the same effect as crossbows."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl:4s, id:'minecraft:fire_protection'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:4s, id:'minecraft:blast_protection'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:4s, id:'minecraft:projectile_protection'}]}",
+			"text": "You can apply these ones to your second ability to increase the effectiveness against certain types of damage, as well you can return damage with such type."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl:1s, id:'minecraft:flame'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:2s, id:'minecraft:frost_walker'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:3s, id:'minecraft:soul_speed'}]}",
+			"text": "You can apply these ones to your third ability: Flame: Lit entities in fire for 4 seconds per level, Frost Walker: Slow entities 4 seconds per level, Soul Speed: Repel entities at 20 blocks/second."
+		}
+    
+    ]
+}

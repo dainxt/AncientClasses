@@ -1,0 +1,17 @@
+{
+    "name": "Soul Pouch",
+    "icon": "minecraft:enchanted_book",
+    "category": "ancientclasses:enchantments_category",
+    "sortnum": "1",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Give your staff the ability to stores a pet of your property or that trust you sacrificing staff durability, by sneaking and using the staff against the pet from afar. Also give the ability to store your pet if it die. You cannot use this feature if the staff is low in durability."
+		},
+		{
+			"type": "ancientclasses:image_displayer",
+			"images": ["ancientclasses:textures/gui/entries/soul_pouch.png"]
+		}
+    
+    ]
+}

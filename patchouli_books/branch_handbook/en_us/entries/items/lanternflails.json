@@ -1,0 +1,30 @@
+{
+    "name": "Lanternflail",
+    "icon": "ancientclasses:fire_lanternflail",
+    "category": "ancientclasses:items_category",
+    "sortnum": "2",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Lanternflails can be used as focus by any branch but it has a special affinity with Bone Branches, as its effects are available when carried in the offhand and counts as source of light."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Tiers",
+			"recipe": "ancientclasses:fire_lanternflail",
+			"recipe2": "ancientclasses:soul_lanternflail"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Tiers",
+			"recipe": "ancientclasses:beacon_lanternflail",
+			"text": "All lanternflails can be repaired with iron."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"title": "Enchantments",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl:4s, id:'ancientclasses:daylight'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:3s, id:'ancientclasses:extend'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:1s, id:'ancientclasses:gleam_knot'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:1s, id:'ancientclasses:dimensional_pocket'}]}"
+		}
+    
+    ]
+}

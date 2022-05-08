@@ -1,0 +1,19 @@
+{
+    "name": "Stone Branch",
+    "icon": "minecraft:stone",
+    "category": "ancientclasses:branches_category",
+    "sortnum": "1",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Most known as the $(l)tank$(). If you like being at the front line, this branch is oriented in that way. It can do stronger melee attacks, agro mobs and defend with structures and stone."
+		},
+		{
+             "type": "ancientclasses:multiple_spotlight",
+             "item_set": "stone",
+             "header": "Base Stone Types",
+             "text": "You may have this types of stones in your inventory for abilities that consume stone like Protect or Cover"
+        }
+    
+    ]
+}

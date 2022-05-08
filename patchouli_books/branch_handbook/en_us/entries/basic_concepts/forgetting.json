@@ -1,0 +1,18 @@
+{
+    "name": "Forgetting",
+    "icon": "minecraft:potion{Potion:'minecraft:mundane'}",
+    "category": "ancientclasses:basic_concepts_category",
+    "sortnum": "2",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "If for whatever reason you want to forget your current learned branch."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:potion{Potion:'minecraft:mundane'}",
+			"text": "You can use the following item, which is so tasteless that will make you forget your current branch election."
+		}
+    
+    ]
+}
