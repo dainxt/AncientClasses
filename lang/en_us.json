@@ -1,0 +1,286 @@
+{
+	"itemGroup.ancientclasses": "Ancient Classes",
+	
+	//Compat
+	"text.patchouli.multiple_spotlight.soul": "%d gives you %d souls when consumed.",
+	"text.patchouli.multiple_spotlight.flower": "This flower gives you %d for %d seconds",
+	
+	//General
+	"key.categories.ancientclasses": "Ancient Classes",
+	"key.ancientclasses.ability1": "Ability 1",
+	"key.ancientclasses.ability2": "Ability 2",
+	"key.ancientclasses.ability3": "Ability 3",
+	"key.ancientclasses.ability4": "Ability 4",
+	"key.ancientclasses.passive": "Ability 5",
+	"key.ancientclasses.menu": "Menu",
+	
+	"enchantment.level.11": "XI",
+	"enchantment.level.12": "XII",
+	"enchantment.level.13": "XII",
+	"enchantment.level.14": "XIV",
+	"enchantment.level.15": "XV",
+	
+	//Attributes
+	"attribute.ancientclasses.name.generic.spell_power" : "Spell Power",
+	"attribute.ancientclasses.name.generic.spell_duration" : "Spell Duration",
+	
+	//Effects
+	"effect.ancientclasses.instantaneous_soul": "Instant Soul",
+	"effect.ancientclasses.leaf_blessing": "Leaf Blessing",
+	"effect.ancientclasses.leaf_curse": "Leaf Curse",
+	
+	//Enchantments
+	"enchantment.ancientclasses.unbound":"Unbound",
+	"enchantment.ancientclasses.unbound.desc":"Your spells are harder to predict specially for endermans",
+	"enchantment.ancientclasses.soul_pouch":"Soul Pouch",
+	"enchantment.ancientclasses.soul_pouch.desc":"Let you store a tameable entity by sneaking and using the staff against one if the staff is above 10 durability. If the staff drop below this limit, the creatures inside dissapear.",
+	
+	"enchantment.ancientclasses.dimensional_pocket":"Dimensional Pocket",
+	"enchantment.ancientclasses.dimensional_pocket.desc":"Additional non-block components used on spells are not consumed at cost of durability.",
+	"enchantment.ancientclasses.extend":"Extend",
+	"enchantment.ancientclasses.extend.desc":"Increase range distance for spells when equipped in a hand",
+	"enchantment.ancientclasses.gleam_knot":"Gleam Knot",
+	"enchantment.ancientclasses.gleam_knot.desc":"Let you target a entity, which make all your single target spells guide towards it.",
+	"enchantment.ancientclasses.daylight":"Daylight",
+	"enchantment.ancientclasses.daylight.desc":"Lit undead targets on fire.",
+	
+	
+	//Items
+	"item.minecraft.potion.effect.recovering": "Potion of Recovering",
+	"item.minecraft.splash_potion.effect.recovering": "Splash Potion of Recovering",
+	"item.minecraft.lingering_potion.effect.recovering": "Lingering Potion of Recovering",
+	"item.minecraft.tipped_arrow.effect.recovering": "Arrow of Recovering",
+	
+	"item.ancientclasses.gold_staff": "Gold Staff",
+	"item.ancientclasses.diamond_staff": "Diamond Staff",
+	"item.ancientclasses.dragon_staff": "Dragon Staff",
+	"item.ancientclasses.staff_companion": "Companion: %d",
+	"item.ancientclasses.staff_companion_dead": "Dead Companion: %d",
+	"item.ancientclasses.staff_companion_denied": "Your staff durability is too low to store entities.",
+	
+	"item.ancientclasses.fire_lanternflail": "Fire Lanternflail",
+	"item.ancientclasses.soul_lanternflail": "Soul Lanternflail",
+	"item.ancientclasses.beacon_lanternflail": "Beacon Lanternflail",
+	"item.ancientclasses.lanternflail.link": "%d linked.",
+	"item.ancientclasses.lanternflail.unlink": "Unlinked",
+	
+	"item.ancientclasses.vine_chestplate": "Vine Chestplate",
+	"item.ancientclasses.warped_chestplate": "Warped Chestplate",
+	"item.ancientclasses.chorus_chestplate": "Chorus Chestplate",
+	
+	//GUI
+	"gui.ancientclasses.choosebranch": "Choose your path",
+	"gui.ancientclasses.choosebranch.requires": "Requires Advancement: ",
+	"gui.ancientclasses.branchmenu": "Branch Menu",
+	"gui.ancientclasses.branchmenu.unlearned": "Select any ability to learn this branch",
+	
+	"branch.ancientclasses.without_branch": "Without Branch",
+	"branch.ancientclasses.no_ability": "No Ability",
+	"ability.ancientclasses.upgradetooltip": "XP Cost: %d",
+	"ability.ancientclasses.maxedtooltip": "Maxed",
+	"ability.ancientclasses.shifttooltip": "Hold [SHIFT] to breakdown",
+	"ability.ancientclasses.passivetooltip": "Branch Passive",
+	"ability.ancientclasses.costtooltip": "Cost",
+	"ability.ancientclasses.cooldowntooltip": "Cooldown",
+	"ability.ancientclasses.durationtooltip": "Duration",
+	"ability.ancientclasses.delaytooltip": "Delay",
+	"ability.ancientclasses.chargestooltip": "Charges",
+	"ability.ancientclasses.velocitytooltip": "Velocity",
+	"ability.ancientclasses.lifetooltip": "Life",
+	"ability.ancientclasses.rangetooltip": "Range",
+	"ability.ancientclasses.damagetooltip": "Damage",
+	"ability.ancientclasses.diametertooltip": "Diameter",
+	"ability.ancientclasses.casttimetooltip": "Cast Time",
+	
+
+	"slot.ancientclasses.first_slot": "First Slot",
+	"slot.ancientclasses.second_slot": "Second Slot",
+	"slot.ancientclasses.third_slot": "Third Slot",
+	"slot.ancientclasses.fourth_slot": "Fourth Slot",
+	"slot.ancientclasses.fifth_slot": "Branch Slot",
+	
+	//Units
+	"util.ancientclasses.blank": "%d",
+	"util.ancientclasses.seconds": "%d s",
+	"util.ancientclasses.length": "%d blocks",
+	"util.ancientclasses.health": "%d health points",
+	"util.ancientclasses.magic_damage": "%d magic damage",
+	"util.ancientclasses.length_second": "%d blocks/second",
+	"util.ancientclasses.percent": "%d percent",
+	"util.ancientclasses.drumsticks": "%d drumsticks",
+	"util.ancientclasses.souls": "%d souls",
+	"util.ancientclasses.magic_damage_second": "%d magic damage/second",
+
+	//Branches and Abilities
+	//Stone Branch
+	"branch.ancientclasses.stone_branch": "Stone Branch",
+	"branch.ancientclasses.stone_branch.desc": "Become stronger and more resistant",
+	
+	"ability.ancientclasses.boost_ability": "Boost Ability",
+	"ability.ancientclasses.boost_ability.desc": "All your next attacks are critical, or if mining is done, destroy the block below.",
+	
+	"ability.ancientclasses.protect_ability": "Protect Ability",
+	"ability.ancientclasses.protect_ability.desc": "Spend up to %d stone-type or cobble-type base blocks, each of which reduces %d of damage from subsequent non armor bypassable attacks received that consume charges. Using a shield will taunt hostile mobs within %d around you.",
+	"ability.ancientclasses.protect_ability.drtooltip": "Damage Reduction",
+	
+	"ability.ancientclasses.dash_ability": "Lunge Ability",
+	"ability.ancientclasses.dash_ability.desc": "Receive a %d boost in your looking direction, if a shield is used during the run, push back all entities on the way and deals them 1 physical damage. This cannot be used when airborning.",
+	"ability.ancientclasses.dash_ability.velocitytooltip": "Velocity",
+	
+	"ability.ancientclasses.cover_ability": "Cover Ability",
+	"ability.ancientclasses.cover_ability.desc": "Spend stone-type base or cobblestone-type block to almost instantly build a structure in your line of sight, if you have a shield in hand you will build a wall with a radius of %d, if you have something else you will build it a bridge of %d of length",
+	
+	"ability.ancientclasses.stone_passive": "Immovable Ability",
+	"ability.ancientclasses.stone_passive.desc": "If you sneak, you anchor in your current position in the ground",
+	"ability.ancientclasses.stone_passive.upsides": "You gain %d of your food bar and harmful effects duration is halved",
+	"ability.ancientclasses.stone_passive.downsides": "All beneficial effects duration and all sources of healing are halved as well",
+	
+	
+	//Diamond Branch
+	"branch.ancientclasses.diamond_branch": "Diamond Branch",
+	"branch.ancientclasses.diamond_branch.desc": "Make use of the basic concepts of magic.",
+	
+	"ability.ancientclasses.condense_magic_ability": "Condense Ability",
+	"ability.ancientclasses.condense_magic_ability.desc": "Cast to unleash a magic cube that deal %d and dissipate on impact, traveling in a line. Offhand Enchanted Books Bonuses:",
+	"ability.ancientclasses.condense_magic_ability.desc.knockback": "Knockback: Knocks back entities on impact.",
+	"ability.ancientclasses.condense_magic_ability.desc.looting": "Looting: mobs drop more loot.",
+	"ability.ancientclasses.condense_magic_ability.desc.piercing": "Piercing: Pierces mobs a set number of mobs.",
+	
+	"ability.ancientclasses.scatter_magic_ability": "Scatter Ability",
+	"ability.ancientclasses.scatter_magic_ability.desc": "Create a shield that reduces %d of all damage and stores it and when reactivated, all entities inside take %d of stored damage. Offhand Enchanted Books Bonuses:",
+	"ability.ancientclasses.scatter_magic_ability.desc.fire": "Fire Protection: reduce %d fire damage more per level",
+	"ability.ancientclasses.scatter_magic_ability.desc.blast": "Blast Protection: reduce %d explosion damage more per level",
+	"ability.ancientclasses.scatter_magic_ability.desc.projectile": "Projectile Protection: reduce %d projectile damage more per level",
+	
+	"ability.ancientclasses.rouse_magic_ability": "Rouse Ability",
+	"ability.ancientclasses.rouse_magic_ability.desc": "Cast a large cube of %d diameter at the point you're looking at, dealing %d to all entities inside. Offhand Enchanted Books Bonuses:",
+	"ability.ancientclasses.rouse_magic_ability.desc.fire": "Flame: Lit all the furnace-like blocks inside with the power of 1 coal and sets all the entities in fire.",
+	"ability.ancientclasses.rouse_magic_ability.desc.cold": "Frost Walker: Extinguishes all blocks and entities inside and slow mobs.",
+	"ability.ancientclasses.rouse_magic_ability.desc.time": "Soul Speed: Decrease update time for all blocks inside and reject all entities.",
+	
+	"ability.ancientclasses.ancient_ritual_ability": "Ancient Ritual Ability",
+	"ability.ancientclasses.ancient_ritual_ability.select": "Do %d Glyph next",
+	"ability.ancientclasses.ancient_ritual_ability.enhancement": "Enhancement",
+	"ability.ancientclasses.ancient_ritual_ability.stretch": "Stretch",
+	"ability.ancientclasses.ancient_ritual_ability.overlong": "Overlong",
+	"ability.ancientclasses.ancient_ritual_ability.desc": "Build or consume a glyph that boost your abilities, cast with a diamond to change which one to use. Building will consume bookshelfs from your inventory",
+	"ability.ancientclasses.ancient_ritual_ability.desc.enhancement": "Enhancement: Double the next spell damage.",
+	"ability.ancientclasses.ancient_ritual_ability.desc.stretch": "Stretch: Doubles the next spell radius.",
+	"ability.ancientclasses.ancient_ritual_ability.desc.overlong": "Overlong: Doubles the next spell life.",
+	
+	"ability.ancientclasses.diamond_passive": "Concentrate Ability",
+	"ability.ancientclasses.diamond_passive.desc": "Spend 50 XP Levels and a golden apple from your hand to enchant it.",
+	"ability.ancientclasses.diamond_passive.upsides": "Casting is done by using a focus (diamonds). You gain %d more XP from orbs and increase 2 blocks your reach distance.",
+	"ability.ancientclasses.diamond_passive.downsides": "Your melee damage is reduced 90 percent and receive 90 percent more damage per weapon or armor piece with enchantability below 20",
+	
+	
+	//Bone Branch	
+	"branch.ancientclasses.bone_branch": "Bone Branch",
+	"branch.ancientclasses.bone_branch.desc": "Manipulate the core power of the soul",
+	
+	"ability.ancientclasses.leech_ability": "Leech Ability",
+	"ability.ancientclasses.leech_ability.desc": "All your attacks gain %d life steal relative to the damage dealt.",
+	
+	"ability.ancientclasses.bargain_ability": "Bargain Ability",
+	"ability.ancientclasses.bargain_ability.desc": "Spend soul and %d to cast a healing cube that heals the same amount. You can store this spell up to %d times. You can consume the following items from your offhand to change the effect of the spell.",
+	"ability.ancientclasses.bargain_ability.desc.damage": "Fermented Eye: Deals %d to the target",
+	"ability.ancientclasses.bargain_ability.desc.soul": "Sugar: The target recovers %d if it is a soul user.",
+	
+	"ability.ancientclasses.ghastling_ability": "Ghastling Ability",
+	"ability.ancientclasses.ghastling_ability.desc": "Summons a %d ghastling with an inventory that doesn't lose on death and only the owner can use. You can command it by casting. Additionally, you can sneak to place the following items on the ghastling which grants bonuses to all entities in a radius of %d and if a Fermented Eye is consumed from the offhand, it opposes the effect:",
+	"ability.ancientclasses.ghastling_ability.desc.empty": "Empty: Heals entities by the ghastling maximum health and sacrifices itself.",
+	"ability.ancientclasses.ghastling_ability.desc.stand": "Brewing Stand: Consume honey bottles to cleanse the harmful effects.",
+	"ability.ancientclasses.ghastling_ability.desc.beacon": "Beacon: Consume sugar to give Haste.",
+	"container.ghastling": "Ghastling",
+	
+	"ability.ancientclasses.soulbound_ability": "Soulbound Ability",
+	"ability.ancientclasses.soulbound_ability.desc": "You bind your soul to the target. If any entity dies during the effect, it teleports to the nearest chained entity, heals %d, ends the bound and reset the cooldown.",
+	"death.attack.soulbound": "The soul of %1$s have been consumed",
+	"death.attack.soulbound.player": "The soul of %1$s have been consumed whilst fighting %2$s",
+	
+	"ability.ancientclasses.bone_passive": "Purgatory Ability",
+	"ability.ancientclasses.bone_passive.desc": "Your health don't lower from 1 health.",
+	"ability.ancientclasses.bone_passive.upsides": "Casting is done by using a focus (bones). You gain %d maximum health and gradually gain soul in bright places.",
+	"ability.ancientclasses.bone_passive.downsides": "In dark places, your soul is drained and your total movement speed is proportional to the soul, but it can be avoided by holding a light source in either hand. If your soul depletes, you take true damage/second.",
+	
+	
+	//Feather Branch
+	"branch.ancientclasses.feather_branch": "Feather Branch",
+	"branch.ancientclasses.feather_branch.desc": "Hunt your targets",
+	
+	"ability.ancientclasses.precise_shot_ability": "Precise Shot Ability",
+	"ability.ancientclasses.precise_shot_ability.desc": "Your nexts %d projectiles launches will have %d impulse increase. Or impregnate an effect up to %d arrows from the inventory with a potion on your offhand",
+	
+	"ability.ancientclasses.agile_hands_ability": "Agile Hands Ability",
+	"ability.ancientclasses.agile_hands_ability.desc": "Within a %d radius, catch all projectiles and attempt to store in the inventory, otherwise it will drop as an item.",
+	
+	"ability.ancientclasses.slide_hook_ability": "Aerial Dash Ability",
+	"ability.ancientclasses.slide_hook_ability.desc": "You have up to %d charges to dash at %d in the direction you are facing and while dashing, throwing or drawing weapons is almost instantaneous. At the end of the duration you regain 1 charge. It cannot be used when you are in the water.",
+	
+	"ability.ancientclasses.hunter_hints_ability": "Hunter Hints Ability",
+	"ability.ancientclasses.hunter_hints_ability.desc": "Mark up to %d entities of the same type as the last one you killed (%d) if it has less than twice your maximum health in a 20 block radius area (or 50 block for players) around you and apply a glowing effect to all mobs for this ability. And if there is less than %d, they will spawn if the environmental conditions are met. Requires 1 Spectral Arrow in the offhand per use.",
+	
+	"ability.ancientclasses.feather_passive": "Unstoppable Ability",
+	"ability.ancientclasses.feather_passive.desc": "Your speed cannot drop from your base speed, and if you sneak, you fix your speed at 100 percent",
+	"ability.ancientclasses.feather_passive.upsides": "Gain %d more movement speed and effective fall distance is 65 percent",
+	"ability.ancientclasses.feather_passive.downsides": "Lose 2 percent speed per armor point and you will have increased the agro of all untamed mobs that are not yours in a 4 blocks radius if you don't crouch or turn invisible.",
+	
+	
+	//Leaf Branch
+	"branch.ancientclasses.leaf_branch": "Leaf Branch",
+	"branch.ancientclasses.leaf_branch.desc": "Be a friend of nature",
+	
+	"ability.ancientclasses.equilibrate_ability": "Equilibrate Ability",
+	"ability.ancientclasses.equilibrate_ability.desc": "Cast a cube of leaves that consumes a flower from your hand, the effect is the same as that used in a suspicious stew. The duration of the effect is %d and the level are the same as this ability. You can use it on yourself if you consume brown and red mushrooms from your inventory.",
+	
+	"ability.ancientclasses.imitate_ability.player": "Imitate Ability",
+	"ability.ancientclasses.imitate_ability.player.desc": "Throw a large leaf cube around %d that consumes a flower from your hand. The effect is set as-is to Equilibrium but the duration of the effect is %d. Does not affect the caster.",
+	//Sub Abilities
+	"ability.ancientclasses.imitate_ability.cow": "Imitate Cow Ability",
+	"ability.ancientclasses.imitate_ability.cow.desc": "You milk yourself and fill a bucket in the offhand with it.",
+	"ability.ancientclasses.imitate_ability.turtle": "Imitate Turtle Ability",
+	"ability.ancientclasses.imitate_ability.turtle.desc": "Gain Protection Effect during %d at the level of this ability",
+	"ability.ancientclasses.imitate_ability.ocelot": "Imitate Ocelot Ability",
+	"ability.ancientclasses.imitate_ability.ocelot.desc": "Gain Speed Effect during %d at the level of this ability",
+	"ability.ancientclasses.imitate_ability.chicken": "Imitate Chicken Ability",
+	"ability.ancientclasses.imitate_ability.chicken.desc": "Gain Slow Falling Effect during %d at the level of this ability",
+	"ability.ancientclasses.imitate_ability.squid": "Imitate Squid Ability",
+	"ability.ancientclasses.imitate_ability.squid.desc": "Gain Night Vision Effect during %d at the level of this ability",
+	"ability.ancientclasses.imitate_ability.pig": "Imitate Pig Ability",
+	"ability.ancientclasses.imitate_ability.pig.desc": "In the next %d, you can mount an living entity with less than twice your maximum health above you, the entity will dismount when the morph is over or if you sneak.",
+	
+	"ability.ancientclasses.overgrowth_ability": "Overgrowth Ability",
+	"ability.ancientclasses.overgrowth_ability.desc": "Your next bone meal can multiply a block of vegetable, plant, leaves, cactus or wood type in a %d radius if the terrain let them",
+	
+	"ability.ancientclasses.morph_ability": "Morph Ability",
+	"ability.ancientclasses.morph_ability.desc": "You can learn to morph into passive mobs by crouching and interacting with them, you can select in which mob morph by casting then using this ability (Currently selected: %d). When you are morphed Imitate change according to the mob selected.",
+	"ability.ancientclasses.morph_ability.desc.list": "You can morph into:",
+	"ability.ancientclasses.morph_ability.learn": "Now you can morph into %d",
+	"ability.ancientclasses.morph_ability.alreadylearn": "You already learned to morph into %d",
+	"ability.ancientclasses.morph_ability.cantlearn": "You cant morph into %d",
+	"ability.ancientclasses.morph_ability.select": "Morph into %d next",
+	"ability.ancientclasses.morph_ability.player": "You can't morph into Player being a Player!",
+	
+	
+	"ability.ancientclasses.leaf_passive": "Extend Ability",
+	"ability.ancientclasses.leaf_passive.desc": "Activate to revive any creature contained in a staff in your hands.",
+	"ability.ancientclasses.leaf_passive.upsides": "At the end of your curse you receive Leaf Blessing permanently unless you change temperature that repairs your equipment by 1 percent/5 seconds if their durability is more than 25 percent, but less than 50 percent and increase your armor toughness by %d",
+	"ability.ancientclasses.leaf_passive.downsides": "Considerable changes in enviroment temperature lead you to gain Leaf Curse which destroy your equipment by 1 percent/5 seconds until it reaches 28 percent of their maximum durability and give you -6 armor toughness.",
+
+	//Entities
+	"entity.ancientclasses.condense_spell": "Condense Spell",
+	"entity.ancientclasses.scatter_spell": "Scatter Spell",
+	"entity.ancientclasses.rouse_spell": "Rouse Spell",
+	
+	"entity.ancientclasses.bargain_spell": "Bargain Spell",
+	"entity.ancientclasses.soulbound_spell": "Soulbound Spell",
+	
+	"entity.ancientclasses.equilibrate_spell": "Equilibrate Spell",
+	"entity.ancientclasses.imitate_spell": "Imitate Spell",
+	
+	"entity.ancientclasses.ghastling": "Ghastling",
+	
+	//Util
+	"helper.ancientclasses.casthelp1": "Cast with a %d in hand, then hold the ability.",
+	"helper.ancientclasses.casthelp2": "Hold a little longer"
+}

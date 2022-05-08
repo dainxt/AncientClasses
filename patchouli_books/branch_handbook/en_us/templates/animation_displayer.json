@@ -1,0 +1,27 @@
+{
+    "components": [
+    	{
+            "type": "patchouli:header",
+            "text": "#header",
+            "x": "-1"
+        },
+        {
+        	"type": "patchouli:custom",
+        	"class": "com.dainxt.ancientclasses.compat.patchouli.AnimationComponent",
+        	"image": "#image",
+        	"frame_size": "#frame_size",
+        	"frame_count": "#frame_count",
+        	"frame_time": "#frame_time",
+            "x": "7",
+            "y": "20"
+        	
+        },
+        {
+            "type": "patchouli:text",
+            "text": "#text",
+            "x": "0",
+            "y": "130"
+        }
+        
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Souls",
+    "icon": "minecraft:potion{Potion:'ancientclasses:recovering'}",
+    "category": "ancientclasses:resources_category",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Soul is a new resource used by caster branches that will appear above your hunger, this resource can be restored by eating berries or extracting it from berries to make potions."
+		},
+		{
+             "type": "ancientclasses:multiple_spotlight",
+             "header": "Consumables",
+             "item_set": "soul"
+        }
+    
+    ]
+}

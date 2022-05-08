@@ -1,0 +1,33 @@
+{
+    "name": "Casting",
+    "icon": "minecraft:stick",
+    "category": "ancientclasses:basic_concepts_category",
+    "sortnum": "1",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Casting is a key mechanic to activate abilities, specially the caster ones. To cast you need to use a focus like staffs, lanternflails or branch specific items."
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Activation",
+			"text": "You can activate your abilities with: $(list1)$(l)$(k:ancientclasses.ability1)$() $(list1)$(l)$(k:ancientclasses.ability2)$() $(list1)$(l)$(k:ancientclasses.ability3)$() $(list1)$(l)$(k:ancientclasses.ability4)$() $(list1)$(l)$(k:ancientclasses.passive)$() $(br2)This is not written in stone, as you can customize it.$()"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Spell Invocation",
+			"text": "To invocate a spell, follow this steps: $(list1)Press $(l)$(k:use)$() with a focus item in your main hand. $(list1)Activate the ability of your choice. $() $(list1)Then hold both until the spell is invocated, then release any key$()"
+		},
+		{
+			"type": "ancientclasses:animation_displayer",
+			"header": "Sequence",
+			"image": "ancientclasses:textures/gui/entries/casting.png",
+			"text": "Condense Spell Example",
+			"frame_time": "8",
+			"frame_count": "9",
+			"frame_size": "512"
+			
+		}
+    
+    ]
+}

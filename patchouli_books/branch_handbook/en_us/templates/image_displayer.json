@@ -1,0 +1,24 @@
+{
+    "components": [
+    	{
+            "type": "patchouli:header",
+            "text": "#header",
+            "x": "-1"
+        },
+        {
+        	"type": "patchouli:custom",
+        	"class": "com.dainxt.ancientclasses.compat.patchouli.MultipleImageComponent",
+        	"images": "#images",
+            "x": "7",
+            "y": "20"
+        	
+        },
+        {
+            "type": "patchouli:text",
+            "text": "#text",
+            "x": "0",
+            "y": "130"
+        }
+        
+    ]
+}

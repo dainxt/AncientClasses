@@ -1,0 +1,17 @@
+{
+    "name": "Gleam Knot",
+    "icon": "minecraft:enchanted_book",
+    "category": "ancientclasses:enchantments_category",
+    "sortnum": "2",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Give the ability to guide single target spell to one entity. To link an entity, sneak and interact with the entity from afar. To see the possible spell trayectory you can use the ability with the lanternflail in the hand and use the ability without casting."
+		},
+		{
+			"type": "ancientclasses:image_displayer",
+			"images": ["ancientclasses:textures/gui/entries/gleam_knot.png"]
+		}
+    
+    ]
+}

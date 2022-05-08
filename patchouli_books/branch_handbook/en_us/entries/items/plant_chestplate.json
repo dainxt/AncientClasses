@@ -1,0 +1,25 @@
+{
+    "name": "Plant Chestplate",
+    "icon": "ancientclasses:warped_chestplate",
+    "category": "ancientclasses:items_category",
+    "sortnum": "3",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Plant chestplates are a special part of armor with high enchantability that benefits all casters. But benefits more Leaf Branches, as by sneaking and using the chestplate can open an inventory where you can save flowers to power their abilities."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Tiers",
+			"recipe": "ancientclasses:vine_chestplate",
+			"recipe2": "ancientclasses:warped_chestplate"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Tiers",
+			"recipe": "ancientclasses:chorus_chestplate",
+			"text": "These chestplates can be repaired with vines, twisting vines and popped chorus fruit respectively. As well it can be applied normal chestplate enchantments."
+		}
+    
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Learning",
+    "icon": "minecraft:crafting_table",
+    "category": "ancientclasses:basic_concepts_category",
+    "sortnum": "0",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Branches are like classes, but lighter. You can learn a branch by selecting a ability on the branch menu. You would need at least 3 experience levels to learn one and also, keep in mind that you can only learn one branch at a time. "
+		},
+		{
+			"type": "ancientclasses:text_class_button",
+			"text": "To enter into the branch menu, you can use $(l)$(k:ancientclasses.menu)$() or enter by the shortcut below.",
+			"header": "Branch Menu"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "Branch Anatomy",
+			"text": "Each branch have: $(list1)A passive which scales with the branch level which effect always apply.$() $(list1)4 abilities that consumes drumsticks or souls (Blue) $() $(list1)A 5th ability that does not consumes such resources. (Green)$() $(br) The branch level is the sumatory of the level of all abilities. "
+		},
+		{
+			"type": "ancientclasses:image_displayer",
+			"header": "Branch Abilities",
+			"images": ["ancientclasses:textures/gui/entries/abilities.png"]
+		}
+    
+    ]
+}

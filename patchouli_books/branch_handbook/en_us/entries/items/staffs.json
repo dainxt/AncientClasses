@@ -1,0 +1,30 @@
+{
+    "name": "Staff",
+    "icon": "ancientclasses:diamond_staff",
+    "category": "ancientclasses:items_category",
+    "sortnum": "1",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Staff are a simple focus tool that can be used by any caster but it has a special affinity to Diamond Branches. It increase the power of your spells by equiping it in the main hand."
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Tiers",
+			"recipe": "ancientclasses:gold_staff",
+			"recipe2": "ancientclasses:diamond_staff"
+		},
+		{
+			"type": "patchouli:crafting",
+			"title": "Tiers",
+			"recipe": "ancientclasses:dragon_staff",
+			"text": "These staffs can be repaired with gold, diamond and netherite respectively"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"title": "Enchantments",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl:5s, id:'minecraft:smite'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:5s, id:'minecraft:bane_of_arthropods'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:1s, id:'ancientclasses:soul_pouch'}]},minecraft:enchanted_book{StoredEnchantments: [{lvl:1s, id:'ancientclasses:unbound'}]}"
+		}
+    
+    ]
+}

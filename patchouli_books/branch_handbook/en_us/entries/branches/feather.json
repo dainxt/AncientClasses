@@ -1,0 +1,19 @@
+{
+    "name": "Feather Branch",
+    "icon": "minecraft:feather",
+    "category": "ancientclasses:branches_category",
+    "sortnum": "4",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Most known as the $(l)archer$(), you become faster than others and have affinity to bows and crossbows. It is the mob farmer by excellence."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"title": "Projectiles",
+			"item": "minecraft:arrow,minecraft:trident,minecraft:egg,minecraft:ender_pearl,minecraft:experience_bottle,minecraft:splash_potion,minecraft:lingering_potion,minecraft:snowball,minecraft:fire_charge,minecraft:firework_rocket,minecraft:ender_eye",
+			"text": "This is a collection of items that can be catch with your second ability or can be boosted if you launch them with your first ability. Additionally the bobber from a fishing rod also counts as projectile."
+		}
+    
+    ]
+}

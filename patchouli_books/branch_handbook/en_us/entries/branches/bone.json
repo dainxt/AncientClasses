@@ -1,0 +1,13 @@
+{
+    "name": "Bone Branch",
+    "icon": "minecraft:bone",
+    "category": "ancientclasses:branches_category",
+    "sortnum": "3",
+    "pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Most known as the $(l)healer$(). Can use magic to give, remove or stall health and is the only branch that can restore soul to others. You also count with a companion that helps you."
+		}
+    
+    ]
+}
